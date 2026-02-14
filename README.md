@@ -105,8 +105,3 @@ SQLite (via Microsoft.Data.Sqlite)
 
 License
 MIT License – feel free to use and modify.
-
-
----
-
-If you want, I can also **write a shorter “LinkedIn-style” README** that is more eye-catching and easier to read for outsiders. Do you want me to do that?
