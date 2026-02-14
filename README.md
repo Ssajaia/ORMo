@@ -28,19 +28,6 @@ This project demonstrates the fundamentals of ORM design: mapping classes to dat
 
 ---
 
-## Project Structure
-
-ORMo/
-│
-├── Attributes/ # Custom attributes ([Table], [Column], [Key])
-├── Core/ # Core ORM components (DbContext, DbSet, ChangeTracker)
-├── Metadata/ # Metadata classes (EntityMetadata, PropertyMetadata, MetadataBuilder)
-├── Infrastructure/ # Database execution layer (SqliteDatabase)
-├── Entities/ # Example entities (User)
-└── Program.cs # Demo usage and testing
-
-
----
 
 ## Demo Output
 
